@@ -1,0 +1,13 @@
+Material	Symmetry	C11 (Gpa)	C22 (Gpa)	C33 (GPa)	C44 (GPa)	C55 (GPa)	C66 (GPa)	C12 (GPa)	C13 (GPa)	C23 (GPa)	Density (kg/m3)	Source
+Rochelle salt	Orthorhombic 222	42.5	51.5	62.9	12.52	3.04	9.96	29.6	35.7	34.25	1775	mason1939
+Benzene	Orthorhombic type-1 (C11, C22, C33) > (C44, C55, C66)  (250 K)	6.14	6.56	5.83	1.97	3.78	1.53	3.52	4.01	3.9	942.5	heseltine1964
+Calcium Formate	Orthorhombic type-2 (C11>C33>C66>C22>C55>C44)	49.2	24.4	35.4	10.5	12.2	28.2	24.8	24.5	14.5	2020	haussuhl1981
+Hypothetical type-3	Orthorhombic type-3 (C11>C66>C55>C22>C44>C33)	180	45.2	10.3	20.4	45.5	90.6	0.1	0.2	0.3	6000	http://www.jwave.vt.edu/crcd/kriz/lectures/Geom_3.html
+Hypothetical type-4	Orthorhombic type-4 (C11>C22>C66>C44>C55>C33)	80.1	60.2	10.3	30.4	20.5	40.6	0.1	0.2	0.3	3000	http://www.jwave.vt.edu/crcd/kriz/lectures/Geom_3.html
+Graphite		235	26	26	5.52	28.2	28.2	3.69	3.69	3.32	1790	book:nayfeh1995
+Barium titanate (BaTiO3)	Tetragonal	275	275	165	54.3	54.3	113	179	152	152	6000	voloshinov2009
+Rutile (TiO2)	Tetragonal	273	273	176	149	149	484	125	194	194	4300	voloshinov2009
+Paratellurite (TeO2)	Tetragonal	56	56	51.5	22	22	106	26.5	66	66	6000	voloshinov2009
+Calomel (Hg2Cl2)	Tetragonal	18.9	18.9	17.1	15.6	15.6	80.3	8.4	12.2	12.2	7180	voloshinov2010
+Mercury bromide (Hg2Br2)	Tetragonal	16.1	16.1	15	18.8	18.8	88.8	7.4	11.1	11.1	7310	voloshinov2010
+Mercury iodide (Hg2I2)	Tetragonal	14.2	14.2	13.2	22	22	107	5.8	11.1	11.1	7700	voloshinov2010
