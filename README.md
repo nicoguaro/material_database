@@ -18,3 +18,9 @@ If you want to add properties for materials in some of the groups you can
 check the format and units in the corresponding file. The references should
 go in `materials_references.bib` and the bibtex-key should go in the field
 for references of the file.
+
+## License
+
+The data present in this repository is made available under the
+[Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/1.0).
+Code is availabe under [MIT license](https://opensource.org/licenses/mit-license.php).
