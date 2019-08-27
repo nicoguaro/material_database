@@ -1,34 +1,34 @@
-Material	Crystal structure	C11 (GPa)	C44 (GPa)	C12 (GPa)	Mass Density (kg/m3)	Thermal conductivity (W/(m K))	Thermal expansion (µm/(m·K))	Electrical resistivity (n?·m)	Reference
-Ag	Face-centered cubic	124	46.1	93.4	14900	429	7.3	15.87	book:elastic_crystal_handbook, lide2004handbook
-Al	Face-centered cubic	107.3	28.3	60.9	2700	237	23.1	28.2	book:elastic_crystal_handbook, lide2004handbook
-Au	Face-centered cubic	192.9	41.5	163.8	1930	318	14.2	22.14	book:elastic_crystal_handbook, lide2004handbook
-Cu	Face-centered cubic	168.4	75.4	121.4	8960	401	16.5	16.78	book:elastic_crystal_handbook, lide2004handbook
-Ir	Face-centered cubic	580	256	242	22560	147	6.4	47.1	book:elastic_crystal_handbook, lide2004handbook
-Ni	Face-centered cubic	246.5	127.4	147.3	8908	90.9	13.4	69.3	book:elastic_crystal_handbook, lide2004handbook
-Pb	Face-centered cubic	49.5	14.9	42.3	11340	35.3	28.9	208	book:elastic_crystal_handbook, lide2004handbook
-Pd	Face-centered cubic	227.1	71.7	176	12023	71.8	11.8	105.4	book:elastic_crystal_handbook, lide2004handbook
-Pt	Face-centered cubic	346.7	76.5	250.7	21450	71.6	8.8	105	book:elastic_crystal_handbook, lide2004handbook
-Cr	Body-centered cubic	339.8	99	58.6	7190	93.9	4.9	125	book:elastic_crystal_handbook, lide2004handbook
-Fe	Body-centered cubic	231.4	116.4	134.7	7874	80.4	11.8	96.1	book:elastic_crystal_handbook, lide2004handbook
-K	Body-centered cubic	4.14	2.63	2.21	860	102.5	83.3	72	book:elastic_crystal_handbook, lide2004handbook
-Li	Body-centered cubic	13.5	8.78	11.44	534	84.8	46	92.8	book:elastic_crystal_handbook, lide2004handbook
-Mo	Body-centered cubic	440.8	121.7	172.4	10280	138	4.8	53.4	book:elastic_crystal_handbook, lide2004handbook
-Na	Body-centered cubic	6.15	5.92	4.96	968	142	71	47.7	book:elastic_crystal_handbook, lide2004handbook
-Nb	Body-centered cubic	240.2	28.2	125.6	8570	53.7	7.3	152	book:elastic_crystal_handbook, lide2004handbook
-Ta	Body-centered cubic	260.2	82.6	154.5	16690	57.5	6.3	131	book:elastic_crystal_handbook, lide2004handbook
-V	Body-centered cubic	228	42.6	118.7	6000	30.7	8.4	197	book:elastic_crystal_handbook, lide2004handbook
-W	Body-centered cubic	522.4	160.8	204.4	19250	173	4.5	52.8	book:elastic_crystal_handbook, lide2004handbook
-C (diamond)	Diamond cubic	949	521	151	3515	1600	0.8	2.70E+09	book:elastic_crystal_handbook, lide2004handbook
-Ge	Diamond cubic	128.4	66.7	48.2	5323	60.2	6	1.00E+09	book:elastic_crystal_handbook, lide2004handbook
-Si	Diamond cubic	166.2	79.8	64.4	2339	149	2.6	6.40E+11	book:elastic_crystal_handbook, lide2004handbook
-GaAs	Compounds	118.8	59.4	53.7	5320	0.55	5.4	1.00E+16	book:elastic_crystal_handbook, lide2004handbook
-GaP	Compounds	141.2	70.5	62.5	4130	72.2	5.3		book:elastic_crystal_handbook, lide2004handbook
-InP	Compounds	102.2	46	57.6	4787	80	4.6		book:elastic_crystal_handbook, lide2004handbook
-KCl	Compounds	39.5	6.3	4.9	1988				book:elastic_crystal_handbook, lide2004handbook
-LiF	Compounds	114	63.6	47.7	2640				book:elastic_crystal_handbook, lide2004handbook
-MgO	Compounds	287.6	151.4	87.4	3580	52.5			book:elastic_crystal_handbook, lide2004handbook
-NaCl	Compounds	49.6	12.9	12.4	2165	3.5	40	1.00E+14	book:elastic_crystal_handbook, lide2004handbook
-TiC	Compounds	500	175	113	4940	24	7.7	2150	book:elastic_crystal_handbook, lide2004handbook, dillon_mat_handbook
-Brass (alpha)	Face-centered cubic	147	72	111	7600	124	20	65.6	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
-Brass (beta)	Body-centered cubic	52	173	27.5	7600	124	20	65.6	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
-Cu3Au	Face-centered cubic	225	66.3	173	11500				book:zener1948, handbook_of_mineralogy
+Material	Crystal structure	C11 (GPa)	C44 (GPa)	C12 (GPa)	Mass Density (kg/m3)	Thermal conductivity (W/(m K))	Thermal expansion (Âµm/(m K))	Electrical resistivity (nÎ© m)	Zener ratio	Reference
+Ag	Face-centered cubic	124	46.1	93.4	14900	429	7.3	15.87	3.01	book:elastic_crystal_handbook, lide2004handbook
+Al	Face-centered cubic	107.3	28.3	60.9	2700	237	23.1	28.2	1.22	book:elastic_crystal_handbook, lide2004handbook
+Au	Face-centered cubic	192.9	41.5	163.8	1930	318	14.2	22.14	2.85	book:elastic_crystal_handbook, lide2004handbook
+Cu	Face-centered cubic	168.4	75.4	121.4	8960	401	16.5	16.78	3.21	book:elastic_crystal_handbook, lide2004handbook
+Ir	Face-centered cubic	580	256	242	22560	147	6.4	47.1	1.51	book:elastic_crystal_handbook, lide2004handbook
+Ni	Face-centered cubic	246.5	127.4	147.3	8908	90.9	13.4	69.3	2.57	book:elastic_crystal_handbook, lide2004handbook
+Pb	Face-centered cubic	49.5	14.9	42.3	11340	35.3	28.9	208	4.14	book:elastic_crystal_handbook, lide2004handbook
+Pd	Face-centered cubic	227.1	71.7	176	12023	71.8	11.8	105.4	2.81	book:elastic_crystal_handbook, lide2004handbook
+Pt	Face-centered cubic	346.7	76.5	250.7	21450	71.6	8.8	105	1.59	book:elastic_crystal_handbook, lide2004handbook
+Cr	Body-centered cubic	339.8	99	58.6	7190	93.9	4.9	125	0.70	book:elastic_crystal_handbook, lide2004handbook
+Fe	Body-centered cubic	231.4	116.4	134.7	7874	80.4	11.8	96.1	2.41	book:elastic_crystal_handbook, lide2004handbook
+K	Body-centered cubic	4.14	2.63	2.21	860	102.5	83.3	72	2.73	book:elastic_crystal_handbook, lide2004handbook
+Li	Body-centered cubic	13.5	8.78	11.44	534	84.8	46	92.8	8.52	book:elastic_crystal_handbook, lide2004handbook
+Mo	Body-centered cubic	440.8	121.7	172.4	10280	138	4.8	53.4	0.91	book:elastic_crystal_handbook, lide2004handbook
+Na	Body-centered cubic	6.15	5.92	4.96	968	142	71	47.7	9.95	book:elastic_crystal_handbook, lide2004handbook
+Nb	Body-centered cubic	240.2	28.2	125.6	8570	53.7	7.3	152	0.49	book:elastic_crystal_handbook, lide2004handbook
+Ta	Body-centered cubic	260.2	82.6	154.5	16690	57.5	6.3	131	1.56	book:elastic_crystal_handbook, lide2004handbook
+V	Body-centered cubic	228	42.6	118.7	6000	30.7	8.4	197	0.78	book:elastic_crystal_handbook, lide2004handbook
+W	Body-centered cubic	522.4	160.8	204.4	19250	173	4.5	52.8	1.01	book:elastic_crystal_handbook, lide2004handbook
+C (diamond)	Diamond cubic	949	521	151	3515	1600	0.8	2700000000	1.31	book:elastic_crystal_handbook, lide2004handbook
+Ge	Diamond cubic	128.4	66.7	48.2	5323	60.2	6	1000000000	1.66	book:elastic_crystal_handbook, lide2004handbook
+Si	Diamond cubic	166.2	79.8	64.4	2339	149	2.6	640000000000	1.57	book:elastic_crystal_handbook, lide2004handbook
+GaAs	Compounds	118.8	59.4	53.7	5320	0.55	5.4	1E+016	1.82	book:elastic_crystal_handbook, lide2004handbook
+GaP	Compounds	141.2	70.5	62.5	4130	72.2	5.3		1.79	book:elastic_crystal_handbook, lide2004handbook
+InP	Compounds	102.2	46	57.6	4787	80	4.6		2.06	book:elastic_crystal_handbook, lide2004handbook
+KCl	Compounds	39.5	6.3	4.9	1988				0.36	book:elastic_crystal_handbook, lide2004handbook
+LiF	Compounds	114	63.6	47.7	2640				1.92	book:elastic_crystal_handbook, lide2004handbook
+MgO	Compounds	287.6	151.4	87.4	3580	52.5			1.51	book:elastic_crystal_handbook, lide2004handbook
+NaCl	Compounds	49.6	12.9	12.4	2165	3.5	40	100000000000000	0.69	book:elastic_crystal_handbook, lide2004handbook
+TiC	Compounds	500	175	113	4940	24	7.7	2150	0.90	book:elastic_crystal_handbook, lide2004handbook, dillon_mat_handbook
+Brass (alpha)	Face-centered cubic	147	72	111	7600	124	20	65.6	4.00	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
+Brass (beta)	Body-centered cubic	52	173	27.5	7600	124	20	65.6	14.12	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
+Cu3Au	Face-centered cubic	225	66.3	173	11500				2.55	book:zener1948, handbook_of_mineralogy
