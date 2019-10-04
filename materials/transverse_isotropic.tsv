@@ -1,4 +1,4 @@
-Material	Class	C11 low (Gpa)	C11 high (Gpa)	C12 low (Gpa)	C12 high (Gpa)	C13 low (Gpa)	C13 high (Gpa)	C33 low (Gpa)	C33 high (Gpa)	C44 low (Gpa)	C44 high (Gpa)	Density low	Density high	Sources
+Material	Class	C11 low (GPa)	C11 high (GPa)	C12 low (GPa)	C12 high (GPa)	C13 low (GPa)	C13 high (GPa)	C33 low (GPa)	C33 high (GPa)	C44 low (GPa)	C44 high (GPa)	Density low	Density high	Sources
 Apatite	IV	167	167	13.1	13.1	66	66	140	140	66.3	66.3	3160	3220	book:payton-aniso_waves, book:freund2004
 Beryl	V	282	282	99.4	99.4	69.5	69.5	248	248	68.6	68.6	2640	2640	book:payton-aniso_waves
 Beryllium	I	290.2	292.3	26.7	26.7	14	14	336	336.4	162	162.5	1850	1850	book:payton-aniso_waves, book:freund2004
