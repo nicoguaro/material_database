@@ -1,19 +1,19 @@
 Material	Class	C11 low (Gpa)	C11 high (Gpa)	C12 low (Gpa)	C12 high (Gpa)	C13 low (Gpa)	C13 high (Gpa)	C33 low (Gpa)	C33 high (Gpa)	C44 low (Gpa)	C44 high (Gpa)	Density low	Density high	Sources
-Apatite	IV	167	167	13.1	13.1	66	66	140	140	66.3	66.3	3160	3220	"book:payton-aniso_waves, book:freund2004"
+Apatite	IV	167	167	13.1	13.1	66	66	140	140	66.3	66.3	3160	3220	book:payton-aniso_waves, book:freund2004
 Beryl	V	282	282	99.4	99.4	69.5	69.5	248	248	68.6	68.6	2640	2640	book:payton-aniso_waves
-Beryllium	I	290.2	292.3	26.7	26.7	14	14	336	336.4	162	162.5	1850	1850	"book:payton-aniso_waves, book:freund2004"
-Cadmium	II	115.8	116	39.8	42.3	40.6	41.4	51	51.4	19.5	20.4	8650	8650	"book:payton-aniso_waves, book:freund2004"
+Beryllium	I	290.2	292.3	26.7	26.7	14	14	336	336.4	162	162.5	1850	1850	book:payton-aniso_waves, book:freund2004
+Cadmium	II	115.8	116	39.8	42.3	40.6	41.4	51	51.4	19.5	20.4	8650	8650	book:payton-aniso_waves, book:freund2004
 Carbon-epoxy		12.372	12.372	6.147	6.147	6.185	6.185	146.302	146.302	4.795	4.795	1900	1900	book:liu2001
-Cobalt	V	307	307	165	165	103	103	358	358.1	75.5	78.3	8900	8900	"book:payton-aniso_waves, book:freund2004"
+Cobalt	V	307	307	165	165	103	103	358	358.1	75.5	78.3	8900	8900	book:payton-aniso_waves, book:freund2004
 Glass-epoxy		13.475	13.475	7.259	7.259	6.033	6.033	42.001	42.001	3.414	3.414	2660	2660	book:liu2001
 Graphite-epoxy (65%)		16.34	16.34	4.96	4.96	3.72	3.72	155.43	155.43	7.48	7.48	1600	1600	book:nayfeh1995
 Hafnium	I	181	181	77	77	66	66	196.9	197	55.7	55.7	13310	13310	book:payton-aniso_waves
-Ice (257 K)	V	13.5	13.5	6.5	6.5	5.2	5.2	14.5	14.5	3.17	3.17	919	919	"book:payton-aniso_waves, wagner2002iapws"
-Magnesium	I	59.2	59.2	25.7	26.2	21.4	21.7	61.4	61.4	61.7	16.4	1738	1738	"book:payton-aniso_waves, book:freund2004"
+Ice (257 K)	V	13.5	13.5	6.5	6.5	5.2	5.2	14.5	14.5	3.17	3.17	919	919	book:payton-aniso_waves, wagner2002iapws
+Magnesium	I	59.2	59.7	25.7	26.2	21.4	21.7	61.4	61.7	16.4	16.4	1738	1738	book:payton-aniso_waves, book:freund2004
 Rhenium	V	612	612	270	270	206	206	683	683	162	162	21200	21200	book:payton-aniso_waves
 Thallium	I	40.8	40.8	35.4	35.4	29	29	52.8	52.8	7.26	7.26	11850	11850	book:payton-aniso_waves
 Titanium	I	162	162.4	92	92	69	69	180.7	181	46.7	46.7	4506	4506	book:payton-aniso_waves
 Yttrium	I	77.9	77.9	29.2	29.2	20	20	76.9	76.9	24.31	24.31	4472	4472	book:payton-aniso_waves
-Zinc	IV	161	165	31	34.2	50	50.1	61	62	38.3	39.6	7140	7140	"book:payton-aniso_waves, book:freund2004"
+Zinc	IV	161	165	31	34.2	50	50.1	61	62	38.3	39.6	7140	7140	book:payton-aniso_waves, book:freund2004
 Zirconium		143.4	143.4	72.8	72.8	65.3	65.3	164.8	164.8	32	32	6520	6520	book:freund2004
 ZnO		209.7	209.7	121.1	121.1	105.1	105.1	210.9	210.9	42.5	42.5	5606	5606	book:freund2004

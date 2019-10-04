@@ -64,7 +64,7 @@ def aniso_ratio(C11, C12, C13, C33, C44):
 
 if __name__ == "__main__":
     plt.style.use("seaborn")
-    fpath = "../transverse_isotropic.tsv"
+    fpath = "../materials/transverse_isotropic.tsv"
     cols = range(2,12)
     mats = np.loadtxt(fpath, skiprows=1, usecols=(0,), dtype=str)
     props = np.loadtxt(fpath, skiprows=1, usecols=cols, delimiter='\t')

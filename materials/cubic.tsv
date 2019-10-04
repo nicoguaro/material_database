@@ -8,7 +8,7 @@ Ni	Face-centered cubic	246.5	127.4	147.3	8908	90.9	13.4	69.3	2.57	book:elastic_c
 Pb	Face-centered cubic	49.5	14.9	42.3	11340	35.3	28.9	208	4.14	book:elastic_crystal_handbook, lide2004handbook
 Pd	Face-centered cubic	227.1	71.7	176	12023	71.8	11.8	105.4	2.81	book:elastic_crystal_handbook, lide2004handbook
 Pt	Face-centered cubic	346.7	76.5	250.7	21450	71.6	8.8	105	1.59	book:elastic_crystal_handbook, lide2004handbook
-Cr	Body-centered cubic	339.8	99	58.6	7190	93.9	4.9	125	0.70	book:elastic_crystal_handbook, lide2004handbook
+Cr	Body-centered cubic	339.8	99	58.6	7190	93.9	4.9	125	0.7	book:elastic_crystal_handbook, lide2004handbook
 Fe	Body-centered cubic	231.4	116.4	134.7	7874	80.4	11.8	96.1	2.41	book:elastic_crystal_handbook, lide2004handbook
 K	Body-centered cubic	4.14	2.63	2.21	860	102.5	83.3	72	2.73	book:elastic_crystal_handbook, lide2004handbook
 Li	Body-centered cubic	13.5	8.78	11.44	534	84.8	46	92.8	8.52	book:elastic_crystal_handbook, lide2004handbook
@@ -24,11 +24,11 @@ Si	Diamond cubic	166.2	79.8	64.4	2339	149	2.6	640000000000	1.57	book:elastic_cry
 GaAs	Compounds	118.8	59.4	53.7	5320	0.55	5.4	1E+016	1.82	book:elastic_crystal_handbook, lide2004handbook
 GaP	Compounds	141.2	70.5	62.5	4130	72.2	5.3		1.79	book:elastic_crystal_handbook, lide2004handbook
 InP	Compounds	102.2	46	57.6	4787	80	4.6		2.06	book:elastic_crystal_handbook, lide2004handbook
-KCl	Compounds	39.5	6.3	4.9	1988				0.36	book:elastic_crystal_handbook, lide2004handbook
+KCl	Compounds	39.5	6.3	4.9	1988	6.53	36.2		0.36	book:elastic_crystal_handbook, lide2004handbook
 LiF	Compounds	114	63.6	47.7	2640				1.92	book:elastic_crystal_handbook, lide2004handbook
-MgO	Compounds	287.6	151.4	87.4	3580	52.5			1.51	book:elastic_crystal_handbook, lide2004handbook
+MgO	Compounds	287.6	151.4	87.4	3580	52.5	12.8		1.51	book:elastic_crystal_handbook, lide2004handbook
 NaCl	Compounds	49.6	12.9	12.4	2165	3.5	40	100000000000000	0.69	book:elastic_crystal_handbook, lide2004handbook
-TiC	Compounds	500	175	113	4940	24	7.7	2150	0.90	book:elastic_crystal_handbook, lide2004handbook, dillon_mat_handbook
-Brass (alpha)	Face-centered cubic	147	72	111	7600	124	20	65.6	4.00	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
-Brass (beta)	Body-centered cubic	52	173	27.5	7600	124	20	65.6	14.12	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
+TiC	Compounds	500	175	113	4940	24	7.7	2150	0.9	book:elastic_crystal_handbook, lide2004handbook, dillon_mat_handbook
+Brass (α)	Face-centered cubic	147	72	111	7600	124	20	65.6	4	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
+Brass (β)	Body-centered cubic	52	173	27.5	7600	124	20	65.6	14.12	book:elastic_crystal_handbook, lide2004handbook,book:zener1948
 Cu3Au	Face-centered cubic	225	66.3	173	11500				2.55	book:zener1948, handbook_of_mineralogy
