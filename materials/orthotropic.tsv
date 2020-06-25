@@ -1,4 +1,4 @@
-Material	Symmetry	C11 (Gpa)	C22 (Gpa)	C33 (GPa)	C44 (GPa)	C55 (GPa)	C66 (GPa)	C12 (GPa)	C13 (GPa)	C23 (GPa)	Density (kg/m3)	Source
+Material	Symmetry	C11 (GPa)	C22 (GPa)	C33 (GPa)	C44 (GPa)	C55 (GPa)	C66 (GPa)	C12 (GPa)	C13 (GPa)	C23 (GPa)	Density (kg/m3)	Source
 Rochelle salt	Orthorhombic 222	42.5	51.5	62.9	12.52	3.04	9.96	29.6	35.7	34.25	1775	mason1939
 Benzene	Orthorhombic type-1 (C11, C22, C33) > (C44, C55, C66)  (250 K)	6.14	6.56	5.83	1.97	3.78	1.53	3.52	4.01	3.9	942.5	heseltine1964
 Calcium Formate	Orthorhombic type-2 (C11>C33>C66>C22>C55>C44)	49.2	24.4	35.4	10.5	12.2	28.2	24.8	24.5	14.5	2020	haussuhl1981
@@ -11,3 +11,8 @@ Paratellurite (TeO2)	Tetragonal	56	56	51.5	22	22	106	26.5	66	66	6000	voloshinov2
 Calomel (Hg2Cl2)	Tetragonal	18.9	18.9	17.1	15.6	15.6	80.3	8.4	12.2	12.2	7180	voloshinov2010
 Mercury bromide (Hg2Br2)	Tetragonal	16.1	16.1	15	18.8	18.8	88.8	7.4	11.1	11.1	7310	voloshinov2010
 Mercury iodide (Hg2I2)	Tetragonal	14.2	14.2	13.2	22	22	107	5.8	11.1	11.1	7700	voloshinov2010
+Bovine femoral bone 1		0.302	0.502	0.669	0.147	0.116	0.081	0.204	0.105	0.156	2060	colabella2017mimetization, book:bones2014
+Bovine femoral bone 2		0.268	0.486	0.667	0.175	0.198	0.112	0.087	0.152	0.195	2060	colabella2017mimetization, book:bones2014
+Bovine femoral bone 3		0.566	0.709	1.201	0.29	0.261	0.132	0.316	0.224	0.261	2060	colabella2017mimetization, book:bones2014
+Bovine femoral bone 4		0.179	0.377	0.569	0.125	0.092	0.038	0.163	0.079	0.133	2060	colabella2017mimetization, book:bones2014
+Bovine femoral bone 5		0.452	0.291	0.433	0.094	0.118	0.106	0.19	0.145	0.101	2060	colabella2017mimetization, book:bones2014

@@ -1,4 +1,4 @@
-Material	Comments	C11 (GPa)	C12 (GPa)	C13 (Gpa)	C15 (Gpa)	C22 (Gpa)	C23 (Gpa)	C25 (Gpa)	C33 (Gpa)	C35 (Gpa)	C44 (Gpa)	C46 (Gpa)	C55 (Gpa)	C66 (Gpa)	Density (kg/m^3)	References
+Material	Comments	C11 (GPa)	C12 (GPa)	C13 (GPa)	C15 (GPa)	C22 (GPa)	C23 (GPa)	C25 (GPa)	C33 (GPa)	C35 (GPa)	C44 (GPa)	C46 (GPa)	C55 (GPa)	C66 (GPa)	Density (kg/m^3)	References
 PEDOT-1	PBE+D2 functional	21.69	5.58	8.65	-6.73	241.61	-0.34	-2.96	33.67	8.77	17.68	17.39	11.67	9.52	1000	PEDOT2017
-PEDOT-2	PBEsol+D2 functional	36.3	20.89	25.69	12.01	278.82	23.85	17.83	74.76	36.13	24.5	22.47	18.55	22.84	1000	PEDOT2018
-
+PEDOT-2	PBEsol+D2 functional	36.3	20.89	25.69	12.01	278.82	23.85	17.83	74.76	36.13	24.5	22.47	18.55	22.84	1000	PEDOT2017
+Cellulose	I-beta	213.3	11.3	11	0.3	102.8	13	10.2	21.5	-1.3	5.3	2.1	2.9	5.3	1500	dri2013cellulose
